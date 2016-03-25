@@ -1,5 +1,5 @@
 ## Analysis of domestic US flights departing from San Francisco, CA
-==
+
 ### Description
 This project consists of a REST service to analyze data from flights departing from San Francisco, CA. It allows to compare the performance of different airlines in multiple ways (ie. choose a destination and receive a comparison of the airlines operating the route, including number of flights, average delay, maximum delay, percentage of flights delayed, percentage of flights cancelled, etc.). This information is helpful when buying a flight ticket.
 
